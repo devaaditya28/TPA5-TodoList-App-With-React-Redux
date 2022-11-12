@@ -8,4 +8,4 @@ Berikut merupakan tampilan dari Aplikasi yang saya buat. Terima kasih.
 
 ![homepage](src/img/homepage.png)
 
-Link Website :
+Link Website : `https://todolist-app-react-redux-devaaditya.netlify.app/`
